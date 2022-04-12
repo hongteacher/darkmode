@@ -1,6 +1,6 @@
 # 깃 페이지 만드는 순서
 
-1. 터미널  add gh-pages
+1. 터미널  yarn add gh-pages
 2. package.json scirpt에 아래내용 추가
 ```
     "predeploy": "npm run build",
